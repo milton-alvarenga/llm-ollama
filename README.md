@@ -25,3 +25,4 @@
 
 ### How to activate
 - Execute as root the binary `ollama serve`
+- After, execute the target python script to use ollama'

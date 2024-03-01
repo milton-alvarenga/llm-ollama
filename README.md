@@ -6,9 +6,10 @@
 - Go to the project directory
 - python3 -m venv venv
 - Check if directory venv has been created
-- pip install ollama
-- To extra feature:
-	 pip install langchain beautifulsoup4 chromadb gradio
+- Just execute after activate the venv (see instructions on the topic below)
+	- pip install ollama
+	- To extra feature:
+		 pip install langchain beautifulsoup4 chromadb gradio
 
 ### How to activate
 - source venv/bin/activate

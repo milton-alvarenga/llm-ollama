@@ -23,6 +23,6 @@
 		- mistral
 - Wait its pull
 
-### How to activate
+### How to execute
 - Execute as root the binary `ollama serve`
 - After, execute the target python script to use ollama'
